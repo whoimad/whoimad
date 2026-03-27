@@ -40,24 +40,24 @@ Docker, Git, FastAPI, MySQL
 
 ## 🛠️ Projects
 
-**3D Gaussian Splatting pipeline** — *Safran Tech*
+**3D Gaussian Splatting pipeline** — *Safran Tech* : 
 3DGS pipeline for industrial 3D reconstruction on a DGX/A100 machine.
 
-**Building renovation optimizer** — *Sia Partners / Efficacity*
+**Building renovation optimizer** — *Sia Partners / Efficacity* : 
 MILP model for scheduling building renovations under French energy law (Décret Tertiaire). Real municipal client in Noisy-le-Grand.
 
-**Food traceability app** — *RedMac Consulting*
+**Food traceability app** — *RedMac Consulting* : 
 End-to-end supply chain traceability system. FastAPI backend, MySQL, full data flow from supplier to shelf.
 
-**Morocco inflation dashboard**
+**Morocco inflation dashboard** : 
 Interactive Power BI dashboard tracking CPI components across Morocco. Grade: 18.8/20.
 
-**Exoplanet classifier** — *NASA Space Apps Hackathon*
+**Exoplanet classifier** — *NASA Space Apps Hackathon* : 
 XGBoost classifier on Kepler telescope data. ~91% accuracy. Built in a weekend.
 
-**Traffic Learner**
+**Traffic Learner** : 
 Reinforcement Learning model training from scratch or through behavioral cloning to play *Traffic Racer* autonomously.
 
-**DLP scanner** — *BMCE Capital*
+**DLP scanner** — *BMCE Capital* : 
 OCR → text normalization → pattern matching → risk scoring → quarantine pipeline. Might have potential.
 
