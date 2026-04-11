@@ -10,8 +10,8 @@ I'm actively looking for a **6-month data science / AI internship starting July 
 
 ## 🔭 What I'm Into
 
-- **LLMs & RAG pipelines** — Building retrieval systems and exploring what actually makes them work. Following MCP and agentic patterns closely.
-- **3D Reconstruction** — Went deep on NeRF → 3D Gaussian Splatting in a research project with Safran Tech. Fascinated by how much geometry you can recover from images alone.
+- **LLMs & RAG pipelines** — Building retrieval systems and exploring what actually makes them work.
+- **3D Reconstruction** — Went deep on 3D Gaussian Splatting in a research project with Safran Tech. Fascinated by how much geometry you can recover from images alone.
 - **Software architecture** — How the current wave of AI tooling is quietly reshaping the way people interact with technology.
 
 ---
@@ -19,16 +19,18 @@ I'm actively looking for a **6-month data science / AI internship starting July 
 ## ⚙️ Skills
 
 **Languages**
-Python, SQL, LaTeX
+Python, SQL
 
 **Machine Learning / Computer Vision**
 Scikit-learn, XGBoost, YOLOv8, PyTorch, TensorFlow, Pandas, NumPy
 
+**Generative AI / LLM**
+LangChain, RAG, Vector databases, Prompt engineering
+
+
 **Optimization & OR**
 Gurobi, OR-Tools, OR modeling
 
-**Generative AI / LLM**
-LangChain, RAG, Vector databases, Prompt engineering, MCP
 
 **Data & BI**
 Power BI, DAX, Matplotlib, Seaborn
@@ -41,7 +43,7 @@ Docker, Git, FastAPI, MySQL
 ## 🛠️ Projects
 
 **3D Gaussian Splatting pipeline** — *Safran Tech* : 
-3DGS pipeline for industrial 3D reconstruction on a DGX/A100 machine.
+3DGS pipeline for industrial 3D reconstruction.
 
 **Building renovation optimizer** — *Sia Partners / Efficacity* : 
 MILP model for scheduling building renovations under French energy law (Décret Tertiaire). Real municipal client in Noisy-le-Grand.
